@@ -1,5 +1,5 @@
 # Rename-Bot
-This is a very simple Telegram Files Rename Bot by [@AbirHasan2005](https://t.me/AbirHasan2005).
+This is a very simple Telegram Files Rename Bot by [@Achu_Mwol](https://t.me/Achu_Mwol).
 
 ## Features
 - Rename Videos, Files or Audios.
@@ -24,7 +24,7 @@ status - Show Users Count in DB. (Admin Only)
 ```
 
 ### Support Group
-<a href="https://t.me/DevsZone"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/Achu_mwolu"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
 
 ## Deploy to Heroku
 Easy to Deploy to Heroku.
@@ -39,14 +39,14 @@ Press Below Button to Deploy!
 
 ### Follow on:
 <p align="left">
-<a href="https://github.com/AbirHasan2005"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
+<a href="https://github.com/adwin15"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
 </p>
 <p align="left">
-<a href="https://twitter.com/AbirHasan2005"><img src="https://img.shields.io/badge/Twitter-Follow%20on%20Twitter-informational.svg?logo=twitter"></a>
+<a href="https://twitter.com/Adwin15"><img src="https://img.shields.io/badge/Twitter-Follow%20on%20Twitter-informational.svg?logo=twitter"></a>
 </p>
 <p align="left">
-<a href="https://facebook.com/AbirHasan2005"><img src="https://img.shields.io/badge/Facebook-Follow%20on%20Facebook-blue.svg?logo=facebook"></a>
+<a href="https://www.facebook.com/edwin.shaju.5682"><img src="https://img.shields.io/badge/Facebook-Follow%20on%20Facebook-blue.svg?logo=facebook"></a>
 </p>
 <p align="left">
-<a href="https://instagram.com/AbirHasan2005"><img src="https://img.shields.io/badge/Instagram-Follow%20on%20Instagram-important.svg?logo=instagram"></a>
+<a href="https://instagram.com/adwin_15"><img src="https://img.shields.io/badge/Instagram-Follow%20on%20Instagram-important.svg?logo=instagram"></a>
 </p>
